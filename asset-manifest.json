@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.302ba2f4.css",
+    "main.js": "/static/js/main.e1a207b4.js",
+    "static/js/787.ae0d8d37.chunk.js": "/static/js/787.ae0d8d37.chunk.js",
+    "static/media/perfil2.png": "/static/media/perfil2.cfd433aa04e56bd340ff.png",
+    "static/media/Banner.gif": "/static/media/Banner.d69e4dc8ec89ca4a86c4.gif",
+    "static/media/Nodo.png": "/static/media/Nodo.7a034571d7d88777d2a7.png",
+    "static/media/League.jpg": "/static/media/League.29b94db5a33f7ce40f0a.jpg",
+    "static/media/diamond-zag.png": "/static/media/diamond-zag.ee92f8e9a188807fad4c.png",
+    "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.1b136cd11de4e9b17d88.png",
+    "static/media/1910037.png": "/static/media/1910037.f2a41395501126a5b6c7.png",
+    "static/media/steel.png": "/static/media/steel.604157f8e22dd3508530.png",
+    "static/media/PHP.png": "/static/media/PHP.50ef7f44051e1ad6e04f.png",
+    "static/media/Discord.png": "/static/media/Discord.7c5e416b86f458c331e1.png",
+    "static/media/Python.png": "/static/media/Python.8b69bd86661522b25142.png",
+    "index.html": "/index.html",
+    "main.302ba2f4.css.map": "/static/css/main.302ba2f4.css.map",
+    "main.e1a207b4.js.map": "/static/js/main.e1a207b4.js.map",
+    "787.ae0d8d37.chunk.js.map": "/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.302ba2f4.css",
+    "static/js/main.e1a207b4.js"
+  ]
+}
